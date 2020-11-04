@@ -2,7 +2,7 @@
 
 Hello,
 this is a modification of the new zsh config of Kali 20.4.
-Its a combination of the new zsh and Bad_ass_bash #
+Its a combination of the new zsh and *The Ultimate Bad Ass .bashrc File*
 <a href="https://gist.github.com/zachbrowne/8bc414c9f30192067831fafebd14255c" target="_blank">&#x1f517; 
 Link</a>  
   
