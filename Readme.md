@@ -4,6 +4,8 @@ Hello,
 this is a modification of the new zsh config of Kali 20.4.
 Its a combination of the new zsh and ["The ultimate bad ass. bashrc"]
 (https://gist.github.com/zachbrowne/8bc414c9f30192067831fafebd14255c)  
+Bad_ass_bash <a href="https://gist.github.com/zachbrowne/8bc414c9f30192067831fafebd14255c" target="_blank">&#x1f517; 
+Link</a>  
   
 <p><img src="/images/showcase.png" /></p>
   
