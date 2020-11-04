@@ -5,7 +5,7 @@ this is a modification of the new zsh config of Kali 20.4.
 Its a combination of the new zsh and ["The ultimate bad ass. bashrc"]
 (https://gist.github.com/zachbrowne/8bc414c9f30192067831fafebd14255c)  
   
-<p><img src="/assets/img/sample/zebra.png" /></p>
+<p><img src="/images/showcase.png" /></p>
   
 ## Installation
   
